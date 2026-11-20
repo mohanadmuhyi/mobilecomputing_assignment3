@@ -30,13 +30,16 @@ lib/
 
 ### Posts Screen
 
-![[Pasted image 20261120144052.png]]
+![](src/Pasted%20image%2020261120144052.png)
+
 ### Favorites Screen
 
-![[Pasted image 20261120144134.png]]
+![](src/Pasted%20image%2020261120144134.png)
+
 ### Empty Favorites
 
-![[Pasted image 20261120144109.png]]
+![](src/Pasted%20image%2020261120144109.png)
+
 ## Run the Project
 
 ```
