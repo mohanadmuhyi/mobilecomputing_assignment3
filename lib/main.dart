@@ -7,9 +7,8 @@ void main() async {
   await Hive.initFlutter();
   Hive.registerAdapter(PostAdapter());
 
-  // Open boxes early
   await Hive.openBox<Post>('postsBox');
-  await Hive.openBox<Post>('favoritesBox'); // used in the assignment
+  await Hive.openBox<Post>('favoritesBox'); 
 
   runApp(const MyApp());
 }
